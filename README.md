@@ -1,4 +1,4 @@
-# Tela principal do aplicativo do Banco Will usando SwiftUI
+# Tela principal do aplicativo do Will Bank usando SwiftUI
 Recentemente me cadastrei no [Will Bank](https://www.willbank.com.br) para entender como foi feito o onboarding no aplicativo. Achei interessante implementar a tela principal do aplicativo usando SwiftUI.
 
 ## Screenshots
